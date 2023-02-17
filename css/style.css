@@ -60,7 +60,7 @@ section.comfoto{
 section.comfoto p{
     padding: 20px;
     background-color:rgba(0, 0, 0, 0.61);
-    width: 400px;
+    width: 300px;
 }
 section#img01{
     background-image: url(../imagens/imaagemserrado01.jpeg);
